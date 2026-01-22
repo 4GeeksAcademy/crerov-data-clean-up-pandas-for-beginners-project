@@ -15,7 +15,7 @@
     "us": "This project involves cleaning and analyzing a real estate dataset using Pandas, focusing on practical data science skills. After completing this project, students will be capable of handling, processing, and visualizing real-world data efficiently.",
     "es": "Este proyecto implica la limpieza y análisis de un conjunto de datos inmobiliarios utilizando Pandas, enfocándose en habilidades prácticas de ciencia de datos. Después de completar este proyecto, los estudiantes serán capaces de manejar, procesar y visualizar datos del mundo real de manera eficiente."
   },
-  "template": "self",
+  "template_url": "self",
   "duration": 3,
   "difficulty": "easy",
   "solution": "https://github.com/breatheco-de/final-data-science-prework-project/tree/solution",
